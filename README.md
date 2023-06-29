@@ -14,7 +14,7 @@ I recently acquired two domains, [DMTGeek.com](https://www.dmtgeek.com) and [Phe
 
 ## Get in Touch 📫
 
-Feel free to reach out to me via email at GeekForLife@gmail.com or find me on Telegram as [GeekedForLife](https://t.me/GeekedForLife). I'm always open to interesting conversations, collaborations, or even just a friendly chat!
+Feel free to reach out to me via email at Geek@dmtgeek.com or find me on Telegram as [GeekedForLife](https://t.me/GeekedForLife). I'm always open to interesting conversations, collaborations, or even just a friendly chat!
 
 <!---
 GeeekForLife/GeeekForLife is a special repository because its `README.md` (this file) appears on your GitHub profile.
